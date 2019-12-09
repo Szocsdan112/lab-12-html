@@ -40,3 +40,12 @@ margin: 20px;
 h1 {
 padding: 40px;
 }
+
+#intro {
+border-width: 1px;
+border-style: solid;
+border-color: black;
+}
+.spotlight {
+background-color: #FEFE22;
+}
