@@ -9,9 +9,7 @@ h1 {
   color: #B02347;
 }
 
-h2 {
-  color: #0C2BED;
-}
+
 
 h1 {
   background-color: #888888;
@@ -48,4 +46,27 @@ border-color: black;
 }
 .spotlight {
 background-color: #FEFE22;
+}
+
+h2 {
+    color: red;
+}
+
+.thisOtherClass {
+    color: red;
+}
+
+.yetAnotherClass {
+    color: red;
+}
+
+a:link {
+    color: blue;
+}
+
+a:hover {
+  text-transform: uppercase;
+}
+body {
+    background: white url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
 }
